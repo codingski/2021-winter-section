@@ -19,5 +19,5 @@ console.log('hello');
 ```
 
 ### 4. 링크연결
-Link: [My github][https://github.com/codingski]
+[My github][https://github.com/codingski]
 ~~Click Me~~
