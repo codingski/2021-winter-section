@@ -19,7 +19,7 @@ console.log('hello');
 ```
 
 ### 4. 링크연결
-[My github][https://github.com/codingski]<br />
+[My github](https://github.com/codingski)<br />
 ~~Click Me~~
 
 ### 5. 이미지
