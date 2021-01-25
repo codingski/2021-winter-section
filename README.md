@@ -23,4 +23,4 @@ console.log('hello');
 ~~Click Me~~
 
 ### 5. 이미지
-![Alt text](https://blog.jinbo.net/attach/615/200937431.jpg)
+![Alt text](C:\Users\yongchanski\Desktop\이용찬\totoro.jpg)
