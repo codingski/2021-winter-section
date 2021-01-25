@@ -23,4 +23,4 @@ console.log('hello');
 ~~Click Me~~
 
 ### 5. 이미지
-![Alt text](C:\Users\yongchanski\Desktop\이용찬\totoro.jpg)
+<img src="https://blog.jinbo.net/attach/615/200937431.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
