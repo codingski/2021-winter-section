@@ -21,3 +21,6 @@ console.log('hello');
 ### 4. 링크연결
 [My github][https://github.com/codingski]<br />
 ~~Click Me~~
+
+### 5. 이미지
+![Alt text](https://blog.jinbo.net/attach/615/200937431.jpg)
